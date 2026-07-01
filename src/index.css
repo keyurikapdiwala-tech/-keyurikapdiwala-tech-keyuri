@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  
+  --color-maroon-50: #fef2f4;
+  --color-maroon-100: #fde2e6;
+  --color-maroon-200: #fbccd6;
+  --color-maroon-300: #f7a3b5;
+  --color-maroon-400: #f06e8d;
+  --color-maroon-500: #e23d65;
+  --color-maroon-600: #cd1f4b;
+  --color-maroon-700: #5E1212; /* Customized for theme */
+  --color-maroon-800: #5E1212; /* Customized for theme */
+  --color-maroon-900: #420A0A; /* Customized for theme */
+  --color-maroon-950: #1C0505; /* Customized for theme */
+
+  --color-gold-50: #fbfaf4;
+  --color-gold-100: #f5f2e1;
+  --color-gold-200: #e9e2bf;
+  --color-gold-300: #C5A059; /* Customized for theme */
+  --color-gold-400: #C5A059; /* Customized for theme */
+  --color-gold-500: #C5A059; /* Customized for theme */
+  --color-gold-600: #a7833a;
+  --color-gold-700: #8b6731;
+  --color-gold-800: #71512b;
+  --color-gold-900: #5c4125;
+  --color-gold-950: #4c341e;
+
+  /* Theme exact colors from Geometric Balance */
+  --color-maroon: #5E1212;
+  --color-gold: #C5A059;
+  --color-beige: #F9F7F2;
+  --color-charcoal: #1A1A1A;
+  --color-accent-rosegold: #B76E79;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Gargi Ladies Tailor",
+  "description": "Premium Ladies Tailoring, Custom Stitching & Bridal Boutique in Surat by Janak Kapadiwala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
