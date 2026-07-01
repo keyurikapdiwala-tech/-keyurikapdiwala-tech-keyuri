@@ -55,7 +55,7 @@ export default function About() {
             >
               <div className="relative w-full h-full overflow-hidden">
                 <img
-                  src="/src/assets/images/bridal_lehenga_1782902395218.jpg"
+                  src="/assets/images/bridal_lehenga_1782902395218.jpg"
                   alt="Beautiful Indian Custom Tailoring Outfit Display"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   referrerPolicy="no-referrer"

@@ -18,7 +18,7 @@ export default function Hero() {
           className="w-full h-full relative"
         >
           <img
-            src="/src/assets/images/hero_tailor_shop_1782902365647.jpg"
+            src="/assets/images/hero_tailor_shop_1782902365647.jpg"
             alt="Gargi Ladies Tailor Luxury Boutique Shop"
             className="w-full h-full object-cover object-center"
             referrerPolicy="no-referrer"

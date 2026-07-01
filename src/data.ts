@@ -238,13 +238,13 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'g1',
     title: 'Intricate Gold Kundan & Zardozi Royal Blouse',
     category: 'Designer Blouse',
-    imageUrl: '/src/assets/images/designer_blouse_1782902379449.jpg' // custom generated
+    imageUrl: '/assets/images/designer_blouse_1782902379449.jpg' // custom generated
   },
   {
     id: 'g2',
     title: 'Royal Deep Maroon Bridal Lehenga with Heavy Cancan',
     category: 'Bridal Collection',
-    imageUrl: '/src/assets/images/bridal_lehenga_1782902395218.jpg' // custom generated
+    imageUrl: '/assets/images/bridal_lehenga_1782902395218.jpg' // custom generated
   },
   {
     id: 'g3',
@@ -268,31 +268,31 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     id: 'g6',
     title: 'Contemporary Indigo Printed Cotton Kurti with Mandarin Collar',
     category: 'Kurti',
-    imageUrl: '/src/assets/images/indigo_cotton_kurti_1782903532063.jpg'
+    imageUrl: '/assets/images/indigo_cotton_kurti_1782903532063.jpg'
   },
   {
     id: 'g7',
     title: 'Traditional Banarasi Brocade Blouse with Elbow Sleeves',
     category: 'Traditional Wear',
-    imageUrl: '/src/assets/images/banarasi_brocade_blouse_1782903544048.jpg'
+    imageUrl: '/assets/images/banarasi_brocade_blouse_1782903544048.jpg'
   },
   {
     id: 'g8',
     title: 'Bespoke Bridal Choli on Display - Premium Fitting Trial',
     category: 'Bridal Collection',
-    imageUrl: '/src/assets/images/hero_tailor_shop_1782902365647.jpg' // custom generated
+    imageUrl: '/assets/images/hero_tailor_shop_1782902365647.jpg' // custom generated
   },
   {
     id: 'g9',
     title: 'Precision Stitching adjustments & Seam Alignments',
     category: 'Before & After Alteration',
-    imageUrl: '/src/assets/images/tailoring_workspace_1782902412008.jpg' // custom generated
+    imageUrl: '/assets/images/tailoring_workspace_1782902412008.jpg' // custom generated
   },
   {
     id: 'g10',
     title: 'Perfect Waist Alterations for Readymade Designer Outfits',
     category: 'Before & After Alteration',
-    imageUrl: '/src/assets/images/waist_alterations_1782903556395.jpg'
+    imageUrl: '/assets/images/waist_alterations_1782903556395.jpg'
   },
   {
     id: 'g11',
